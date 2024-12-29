@@ -2,4 +2,4 @@
 
 This document provides a basic overview of Java fundamentals every developer should know.
 
-[First Program in Java]([https://github.com "Visit GitHub](https://github.com/ashwinisomani/Learn-ObjectOriented-in-JAVA/blob/master/src/FirstProgram/FirstProgram.java)")
+[First Program in Java](https://github.com/ashwinisomani/Learn-ObjectOriented-in-JAVA/blob/master/src/FirstProgram/FirstProgram.java)
